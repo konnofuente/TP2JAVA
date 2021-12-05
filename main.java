@@ -6,7 +6,7 @@ public class main {
         Student[] tab_stud=new Student[100];
         Scanner input=new Scanner(System.in);
         int choice;
-        
+        //
         do
         {
         System.out.println("---------------------------------------------------------------");
