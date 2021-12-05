@@ -1,4 +1,7 @@
 # TP2JAVA
+NAME:KONNO MELI ARNAUD DESIRE   MAT:20R2323
+
+
 this program aimed with the management of student marks work with 
   -1 class with name student
       with method STUDENT  as contructior and info_student to display student information
