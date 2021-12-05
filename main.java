@@ -1,3 +1,5 @@
+//NAME:KONNO MELI    MAT:20R2323
+
 import java.util.Scanner;
 
 public class main {
@@ -6,7 +8,7 @@ public class main {
         Student[] tab_stud=new Student[100];
         Scanner input=new Scanner(System.in);
         int choice;
-        //
+        
         do
         {
         System.out.println("---------------------------------------------------------------");
